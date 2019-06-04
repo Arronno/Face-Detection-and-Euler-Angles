@@ -1,0 +1,1 @@
+Face Detection with HOG Face Detector and Extraction of Euler Angles with solvePnP and Projection Matrix Decomposition
